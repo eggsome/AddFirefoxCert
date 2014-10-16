@@ -1,6 +1,7 @@
 Readme for AddFirefoxCert
 =========================
 
+NOTE: The zip file contains a copy of the script and the binary executables, you shouldn't need anything else.
   
 Installation instructions:
 
