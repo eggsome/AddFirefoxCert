@@ -1,7 +1,7 @@
 Readme for AddFirefoxCert
 =========================
 
-
+ 
 Installation instructions:
 
 1. Copy the folder "Firefox-certificate-and-certutil" to a location on your server accesable by all users
